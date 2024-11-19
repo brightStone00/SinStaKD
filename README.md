@@ -1,1 +1,1 @@
-# SinStaKD: A Single Stage Knowledge Distillation Network for Brain Tumor Segmentation
+# SinStaKD: A Single Stage Knowledge Distillation Network for Brain Tumor Segmentation on limited MR image modelities
